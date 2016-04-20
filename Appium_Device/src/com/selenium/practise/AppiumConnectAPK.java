@@ -12,6 +12,7 @@ import io.appium.java_client.android.AndroidDriver;
 
 public class AppiumConnectAPK {
 
+	//this is the new comment added
 	public static AndroidDriver driver=null;
 	public static void main(String[] args) throws InterruptedException, MalformedURLException {
 		// Create object of DesiredCapabilities class                             
